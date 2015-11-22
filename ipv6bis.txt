@@ -1,0 +1,21 @@
+{
+"node":{
+"node-type":"Zolertia Z1",
+"time":2411
+},
+"rsc":{
+"temperature":{
+"unit":"Celcius",
+"value": 1.50
+},
+"leds":0
+},
+"cfg":{
+"host":"[aaaa::1]",
+"port":80,
+"path":"/debug/",
+"appdata":"",
+"proto":"http",
+"interval":120
+}
+}
